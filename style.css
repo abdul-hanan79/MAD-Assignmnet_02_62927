@@ -1,0 +1,32 @@
+#heading
+{
+
+ /* text-align:center; */
+ display:block;
+margin: 0 auto;
+}
+.navbar,h2,h3,footer
+{
+    text-align  : center;
+    
+}
+div.about
+{
+    text-align: center;
+}
+form
+{
+    text-align: center;
+}
+table
+{
+    margin: 0 auto;
+}
+button 
+{
+    width:10%;
+    margin-left: 45%;
+    margin-right:45%;
+}
+
+
